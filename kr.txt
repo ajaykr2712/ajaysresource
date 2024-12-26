@@ -1,8 +1,56 @@
-  Ajay
-  koljay
-  huikaj
-  dshfjew
-  afjewnfawenfew
-  fqwjefewjf
+DevOps tools:
 
+Programming → Python, Groovy, Go Lang
+Provision → 
+@github
+
+Containers → 
+@Docker
+
+Orchestration → 
+@kubernetesio
+
+Cloud → 
+@awscloud
+ 
+@CivoCloud
+
+@Azure
+ 
+CI/CD & GitOps → Jenkins, Github Actions, Gitlab, ArgoCD, Flux
+IaC & IP → Terraform, Ansible, Pulumi, Crossplane
+
+
+
+Top Devops Projects
+
+1️⃣ Chatbot Deployment over cloud
+
+▶️ You can create one voice bot using tools like RASA, CSML, Dialogflow or etc.
+
+▶️ Start using command line to deploy it, Learn Linux apply it.
+
+▶️ Use AWS/GCP services for App deployment like EKS/GKE, ECS, or AWS Lambda.
+
+
+2️⃣ Application deployment
+
+▶️ Learn about AWS services like EKS, ECS, Fargate clusters, Cloudformation, and many more.
+🔅One of them is enough for project.
+
+▶️ Create demo application like wordpress or owncloud deployment yaml file.
+
+
+
+3️⃣ Docker-Compose Alternative for 2️⃣
+
+▶️ If you are comfortable with docker in comparison with kubernetes, Use this.
+
+✍️ Link: https://bit.ly/RG-Docker
+
+4️⃣ Launch Infrastructure as a Code Service
+
+▶️ Being DevOps Engineer, You should have some idea about IaC tools.
+
+▶️ Such as Terraform, Ansible, or Cloudformation.
 
